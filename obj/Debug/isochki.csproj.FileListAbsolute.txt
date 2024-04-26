@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\git_exercise\isochki\bin\Debug\isochki.exe.config
+C:\Users\user\Desktop\git_exercise\isochki\bin\Debug\isochki.exe
+C:\Users\user\Desktop\git_exercise\isochki\bin\Debug\isochki.pdb
+C:\Users\user\Desktop\git_exercise\isochki\obj\Debug\isochki.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\git_exercise\isochki\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\git_exercise\isochki\obj\Debug\App.g.cs
+C:\Users\user\Desktop\git_exercise\isochki\obj\Debug\isochki_MarkupCompile.cache
+C:\Users\user\Desktop\git_exercise\isochki\obj\Debug\isochki_MarkupCompile.lref
+C:\Users\user\Desktop\git_exercise\isochki\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\git_exercise\isochki\obj\Debug\isochki.g.resources
+C:\Users\user\Desktop\git_exercise\isochki\obj\Debug\isochki.Properties.Resources.resources
+C:\Users\user\Desktop\git_exercise\isochki\obj\Debug\isochki.csproj.GenerateResource.cache
+C:\Users\user\Desktop\git_exercise\isochki\obj\Debug\isochki.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\git_exercise\isochki\obj\Debug\isochki.exe
+C:\Users\user\Desktop\git_exercise\isochki\obj\Debug\isochki.pdb
